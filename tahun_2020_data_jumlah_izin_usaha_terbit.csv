@@ -1,0 +1,59 @@
+Bulan,Jenis Izin,Jumlah Izin Terbit
+Januari,Izin Usaha Industri,2
+Januari,Izin Usaha Jasa Konstruksi,2
+Januari,Izin Usaha Perdagangan Umum,4
+Januari,Izin Usaha Toko Modern,3
+Januari,Tanda Daftar Gudang,2
+Februari,Izin Khusus Waktu Pelayanan (Bagi Pusat Perbelanjaan dan Toko Modern),1
+Februari,Izin Usaha Jasa Konstruksi,16
+Februari,Izin Usaha Perdagangan (Usaha Pusat Perbelanjaan),1
+Februari,Izin Usaha Perdagangan Umum,4
+Februari,Izin Usaha Toko Modern,9
+Maret,Izin Usaha Industri,2
+Maret,Izin Usaha Jasa Konstruksi,12
+Maret,Izin Usaha Perdagangan (Usaha Pusat Perbelanjaan),1
+Maret,Izin Usaha Perdagangan Umum,16
+Maret,Izin Usaha Toko Modern,8
+Maret,Tanda Daftar Gudang,2
+April,Izin Khusus Waktu Pelayanan (Bagi Pusat Perbelanjaan dan Toko Modern),14
+April,Izin Usaha Industri,1
+April,Izin Usaha Jasa Konstruksi,4
+April,Izin Usaha Perdagangan Umum,12
+April,Izin Usaha Toko Modern,4
+Mei,Izin Khusus Waktu Pelayanan (Bagi Pusat Perbelanjaan dan Toko Modern),2
+Mei,Izin Usaha Jasa Konstruksi,8
+Mei,Izin Usaha Perdagangan Umum,7
+Juni,Izin Usaha Jasa Konstruksi,6
+Juni,Izin Usaha Perdagangan Umum,7
+Juni,Izin Usaha Toko Modern,1
+Juni,Tanda Daftar Gudang,2
+Juli,Izin Usaha Industri,5
+Juli,Izin Usaha Jasa Konstruksi,17
+Juli,Izin Usaha Perdagangan Umum,19
+Juli,Tanda Daftar Gudang,2
+Agustus,Izin Usaha Industri,4
+Agustus,Izin Usaha Jasa Konstruksi,7
+Agustus,Izin Usaha Perdagangan Umum,22
+Agustus,Tanda Daftar Gudang,1
+September,Izin Khusus Waktu Pelayanan (Bagi Pusat Perbelanjaan dan Toko Modern),26
+September,Izin Koperasi Simpan Pinjam,1
+September,Izin Usaha Industri,2
+September,Izin Usaha Jasa Konstruksi,4
+September,Izin Usaha Perdagangan (Usaha Pusat Perbelanjaan),1
+September,Izin Usaha Perdagangan Umum,10
+September,Izin Usaha Toko Modern,17
+September,Tanda Daftar Gudang,2
+Oktober,Izin Koperasi Simpan Pinjam,2
+Oktober,Izin Usaha Jasa Konstruksi,7
+Oktober,Izin Usaha Perdagangan Umum,9
+Oktober,Izin Usaha Toko Modern,11
+November,Izin Khusus Waktu Pelayanan (Bagi Pusat Perbelanjaan dan Toko Modern),10
+November,Izin Usaha Jasa Konstruksi,16
+November,Izin Usaha Perdagangan (Usaha Pusat Perbelanjaan),4
+November,Izin Usaha Perdagangan (Usaha Toko Swalayan yang Terintegrasi dengan Pusat Perbelanjaan atau Bangunan/Kawasan Lain),2
+November,Izin Usaha Perdagangan Umum,22
+November,Izin Usaha Toko Modern,2
+November,Tanda Daftar Gudang,2
+Desember,Izin Koperasi Simpan Pinjam,1
+Desember,Izin Usaha Jasa Konstruksi,9
+Desember,Izin Usaha Perdagangan Umum,12
